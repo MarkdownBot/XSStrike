@@ -7,19 +7,20 @@ XSStrike is an advanced XSS detection suite. It has a powerful fuzzing engine an
 Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/82e3a63c-4813-11e6-9430-6015d98aeaab.png) by [Somdev Sangwan](https://twitter.com/s0md3v)
 
 ## Features
-- Powerful fuzzing engine
-- Context breaking technology
-- Intelligent payload generation
-- GET & POST method support
-- Cookie Support
-- WAF Fingerprinting
-- Hand crafted payloads for filter and WAF evasion
-- Hidden parameter discovery
-- Accurate results via [levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance) algorithm
+
+-   Powerful fuzzing engine
+-   Context breaking technology
+-   Intelligent payload generation
+-   GET & POST method support
+-   Cookie Support
+-   WAF Fingerprinting
+-   Hand crafted payloads for filter and WAF evasion
+-   Hidden parameter discovery
+-   Accurate results via [levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance) algorithm
 
 To know more visit [xsstrike.tk](http://xsstrike.tk)
 
-**Note:** XSStrike isn't compatible with Python2 anymore, please use `python3 xsstrike` to run it.\
+**Note:** XSStrike isn't compatible with Python2 anymore, please use `python3 xsstrike` to run it.\\
 [Changelog](https://github.com/s0md3v/XSStrike/blob/master/CHANGELOG.md) contains the changes made to XSStrike after the XSStrike v2.0 pre-beta release.
 
 ### Screenshots
@@ -33,4 +34,5 @@ To know more visit [xsstrike.tk](http://xsstrike.tk)
 ![ss4](https://image.ibb.co/gmf7No/68747470733a2f2f7873737472696b652e746b2f696d616765732f352e706e67.png)
 
 #### License
+
 XSStrike is licensed under [MIT license](https://github.com/s0md3v/XSStrike/blob/master/LICENSE).
